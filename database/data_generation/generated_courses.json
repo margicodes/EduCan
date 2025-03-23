@@ -1,0 +1,269 @@
+[
+    {
+      "id": 0,
+      "title": "Mathematics for Beginners",
+      "subject": "Mathematics",
+      "description": "An engaging course covering basic arithmetic, algebra, and geometry, designed to strengthen foundational math skills through interactive lessons and practice problems.",
+      "classes": [
+        {
+          "class_name": "Mathematics Fundamentals: Arithmetic & Algebra",
+          "class_description": "An interactive class designed to build strong arithmetic and algebra foundations. Learn through practice problems, quizzes, and fun math games.",
+          "schedule": "Mondays & Wednesdays, 10:00 AM – 11:30 AM"
+        },
+        {
+          "class_name": "Geometry for Beginners",
+          "class_description": "Explore the world of shapes, angles, and measurements in this easy-to-follow course. Ideal for beginners looking to develop spatial reasoning.",
+          "schedule": "Tuesdays & Thursdays, 2:00 PM – 3:30 PM"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Introduction to Computer Science",
+      "subject": "Computer Science",
+      "description": "Learn the basics of computer science, including algorithms, data structures, and programming logic. Perfect for students new to coding and computational thinking.",
+      "classes": [
+        {
+          "class_name": "Introduction to Computer Science",
+          "class_description": "Start your programming journey by learning basic algorithms, data structures, and problem-solving skills. No prior experience required.",
+          "schedule": "Mondays & Wednesdays, 1:00 PM – 2:30 PM"
+        },
+        {
+          "class_name": "Introduction to Programming with Python",
+          "class_description": "A hands-on Python programming course for beginners, where you’ll learn coding basics, logic, and how to build small applications.",
+          "schedule": "Tuesdays & Thursdays, 11:00 AM – 12:30 PM"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Creative Writing and Storytelling",
+      "subject": "Literature",
+      "description": "Discover the art of storytelling and creative writing. This course nurtures imagination and guides students in crafting compelling stories, poems, and essays.",
+      "classes": [
+        {
+          "class_name": "Creative Writing for Beginners",
+          "class_description": "This course nurtures imagination and writing skills. Students will explore fiction, poetry, and narrative structure to bring their creative ideas to life.",
+          "schedule": "Mondays & Wednesdays, 3:00 PM – 4:30 PM"
+        },
+        {
+          "class_name": "Storytelling Mastery",
+          "class_description": "Dive into the art of storytelling, where students will craft compelling stories, learn character development, and master narrative techniques.",
+          "schedule": "Tuesdays & Thursdays, 1:00 PM – 2:30 PM"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Fundamentals of Physics",
+      "subject": "Physics",
+      "description": "Dive into the exciting world of physics! Explore motion, energy, force, and simple machines through experiments, visual aids, and real-life applications.",
+      "classes": [
+        {
+          "class_name": "Physics Fundamentals: Motion & Energy",
+          "class_description": "Dive into the exciting world of physics! Explore motion, energy, force, and simple machines through experiments, visual aids, and real-life applications.",
+          "schedule": "Mondays & Wednesdays, 9:00 AM – 10:30 AM"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Introduction to Biology: Life and Living Things",
+      "subject": "Biology",
+      "description": "Explore the wonders of biology, from cells and DNA to ecosystems and human anatomy. Ideal for students who want to understand life on Earth.",
+      "classes": [
+        {
+          "class_name": "Biology Essentials: Cells & Ecosystems",
+          "class_description": "Explore the wonders of biology, from cells and DNA to ecosystems and human anatomy. Ideal for students who want to understand life on Earth.",
+          "schedule": "Tuesdays & Thursdays, 2:00 PM – 3:30 PM"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Art and Design: Drawing and Painting Basics",
+      "subject": "Art & Design",
+      "description": "A hands-on course where students learn drawing, painting, color theory, and design fundamentals to express their creativity visually.",
+      "classes": [
+        {
+          "class_name": "Drawing & Painting Techniques",
+          "class_description": "A hands-on course where students learn drawing, painting, color theory, and design fundamentals to express their creativity visually.",
+          "schedule": "Mondays & Wednesdays, 4:00 PM – 5:30 PM"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "World History: Ancient Civilizations to Modern Times",
+      "subject": "History",
+      "description": "Take a journey through time exploring key historical events, civilizations, and influential figures that shaped our world from ancient times to today.",
+      "classes": [
+        {
+          "class_name": "World History: Ancient to Medieval",
+          "class_description": "Take a journey through time exploring key historical events, civilizations, and influential figures from ancient civilizations to the medieval period.",
+          "schedule": "Mondays & Wednesdays, 11:00 AM – 12:30 PM"
+        },
+        {
+          "class_name": "World History: Modern Times",
+          "class_description": "Explore the modern era, focusing on the major historical events, revolutions, and figures that shaped the contemporary world.",
+          "schedule": "Tuesdays & Thursdays, 1:00 PM – 2:30 PM"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Introduction to Environmental Science",
+      "subject": "Environmental Science",
+      "description": "Learn about the environment, ecosystems, conservation, and climate change. This course encourages awareness and responsibility for our planet.",
+      "classes": [
+        {
+          "class_name": "Environmental Science: Ecosystems & Conservation",
+          "class_description": "Learn about the environment, ecosystems, conservation, and climate change. This course encourages awareness and responsibility for our planet.",
+          "schedule": "Mondays & Wednesdays, 9:00 AM – 10:30 AM"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Personal Finance and Money Management for Teens",
+      "subject": "Finance",
+      "description": "Equip students with essential financial literacy skills, including budgeting, saving, investing, and understanding credit in an engaging and practical way.",
+      "classes": [
+        {
+          "class_name": "Financial Literacy for Teens",
+          "class_description": "Equip students with essential financial literacy skills, including budgeting, saving, investing, and understanding credit in an engaging and practical way.",
+          "schedule": "Tuesdays & Thursdays, 3:00 PM – 4:30 PM"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Chemistry Essentials: Atoms to Reactions",
+      "subject": "Chemistry",
+      "description": "Explore the building blocks of matter, chemical reactions, and the periodic table. Perfect for students curious about how substances interact and change.",
+      "classes": [
+        {
+          "class_name": "Introduction to Chemistry: Matter & Reactions",
+          "class_description": "Explore the building blocks of matter, chemical reactions, and the periodic table. Perfect for students curious about how substances interact and change.",
+          "schedule": "Mondays & Wednesdays, 12:00 PM – 1:30 PM"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Introduction to Economics: Understanding Markets and Money",
+      "subject": "Economics",
+      "description": "Learn the basics of economics, including supply and demand, markets, and personal finance. A great start for understanding how economies function.",
+      "classes": [
+        {
+          "class_name": "Basic Economics: Markets & Money",
+          "class_description": "Learn the basics of economics, including supply and demand, markets, and personal finance. A great start for understanding how economies function.",
+          "schedule": "Tuesdays & Thursdays, 9:00 AM – 10:30 AM"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Music Theory and Composition Basics",
+      "subject": "Music",
+      "description": "An inspiring course introducing music theory, notation, rhythm, and composition. Great for budding musicians and creative minds.",
+      "classes": [
+        {
+          "class_name": "Music Theory: Notation & Rhythm",
+          "class_description": "An inspiring course introducing music theory, notation, rhythm, and composition. Great for budding musicians and creative minds.",
+          "schedule": "Mondays & Wednesdays, 2:00 PM – 3:30 PM"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Geography: Exploring Our World",
+      "subject": "Geography",
+      "description": "Travel the world through this course on physical and human geography, exploring continents, cultures, climates, and global connections.",
+      "classes": [
+        {
+          "class_name": "Geography Basics: Continents & Climates",
+          "class_description": "Travel the world through this course on physical and human geography, exploring continents, cultures, climates, and global connections.",
+          "schedule": "Tuesdays & Thursdays, 4:00 PM – 5:30 PM"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Public Speaking and Communication Skills",
+      "subject": "Communication",
+      "description": "Develop confidence and clarity in speaking through this course on public speaking, presentations, and effective communication strategies.",
+      "classes": [
+        {
+          "class_name": "Public Speaking: Confidence & Clarity",
+          "class_description": "Develop confidence and clarity in speaking through this course on public speaking, presentations, and effective communication strategies.",
+          "schedule": "Mondays & Wednesdays, 3:00 PM – 4:30 PM"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Introduction to Psychology: Understanding Human Behavior",
+      "subject": "Psychology",
+      "description": "Dive into the study of the mind and behavior, exploring topics like emotions, cognition, development, and personality in everyday life.",
+      "classes": [
+        {
+          "class_name": "Psychology Basics: Emotions & Cognition",
+          "class_description": "Dive into the study of the mind and behavior, exploring topics like emotions, cognition, development, and personality in everyday life.",
+          "schedule": "Tuesdays & Thursdays, 1:00 PM – 2:30 PM"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Business Basics: Entrepreneurship and Innovation",
+      "subject": "Business",
+      "description": "Learn how businesses work, from idea generation to marketing and management. Perfect for future entrepreneurs and innovators.",
+      "classes": [
+        {
+          "class_name": "Introduction to Business: Entrepreneurship & Innovation",
+          "class_description": "Learn how businesses work, from idea generation to marketing and management. Perfect for future entrepreneurs and innovators.",
+          "schedule": "Mondays & Wednesdays, 4:00 PM – 5:30 PM"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Introduction to Political Science: Government and Society",
+      "subject": "Political Science",
+      "description": "Understand political systems, ideologies, and global governance. Ideal for students interested in how societies are organized and governed.",
+      "classes": [
+        {
+          "class_name": "Political Science: Government & Society",
+          "class_description": "Understand political systems, ideologies, and global governance. Ideal for students interested in how societies are organized and governed.",
+          "schedule": "Tuesdays & Thursdays, 10:00 AM – 11:30 AM"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Health and Wellness: Nutrition and Fitness",
+      "subject": "Health",
+      "description": "A practical guide to healthy living, covering nutrition, exercise, mental health, and wellness habits for a balanced lifestyle.",
+      "classes": [
+        {
+          "class_name": "Health & Wellness: Nutrition & Fitness",
+          "class_description": "A practical guide to healthy living, covering nutrition, exercise, mental health, and wellness habits for a balanced lifestyle.",
+          "schedule": "Mondays & Wednesdays, 2:00 PM – 3:30 PM"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Engineering and Design Thinking",
+      "subject": "Engineering",
+      "description": "Explore the world of engineering and innovation through design challenges, problem-solving, and creative thinking activities.",
+      "classes": [
+        {
+          "class_name": "Engineering Design & Innovation",
+          "class_description": "Explore the world of engineering and innovation through design challenges, problem-solving, and creative thinking activities.",
+          "schedule": "Tuesdays & Thursdays, 3:00 PM – 4:30 PM"
+        }
+      ]
+    }
+  ]

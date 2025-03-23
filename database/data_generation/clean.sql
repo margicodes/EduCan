@@ -1,0 +1,10 @@
+DELETE FROM `class_student_work` ;
+DELETE FROM `class_students` ;
+DELETE FROM `classes` ;
+DELETE FROM `parent_student_relation` ;
+DELETE FROM `parents`;
+DELETE FROM `students`;
+DELETE FROM `admins`;
+DELETE FROM `teachers`;
+DELETE FROM `users`;
+DELETE FROM `courses`;
